@@ -20,7 +20,6 @@ def run():
     else:
         print("No Es Primo")
 
-
-
+        
 if __name__ == '__main__':
     run()
